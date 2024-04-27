@@ -5,7 +5,7 @@ import { Icon } from "@iconify/react";
 // import newLogo from "./images/yourFileName"
 
 // Projects Images (add your images to the images directory and import below)
-import Logo from "./images/logo.svg";
+import Logo from "./images/qalq-trans.png";
 
 // Hero Images (add your images to the /images directory with the same names)
 import HeroLight from "./images/hero-light.jpg";
@@ -18,7 +18,7 @@ export { HeroDark as Dark };
  **************************************************************
   Add your GitHub username (string - "YourUsername") below.
 */
-export const githubUsername = "Your GitHub username here";
+export const githubUsername = "edmacabebe";
 
 // Navbar Logo image
 export const navLogo = undefined;
